@@ -7,11 +7,11 @@ First, generate the static html output:
 ```bash
 npm run build
 ```
-# or
+or
 ```bash
 yarn build
 ```
-# or
+or
 ```bash
 pnpm build
 ```
